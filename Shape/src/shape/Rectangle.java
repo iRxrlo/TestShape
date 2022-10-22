@@ -21,4 +21,8 @@ public class Rectangle {
     // write code to calculate perimeter here
     // getPerimeter()
     
+     public int getPerimeter() { 
+        return length+breadth+length+breadth; // write code to calculate area here
+    } 
+    
 }
